@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: #0095dd;
+    background-color: #6000dd;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -19,7 +19,7 @@ h1 {
 }
 
 canvas {
-    background: #f0f0f0;
+    background: #f0f0f08c;
     display: block;
     border-radius: 5px;
 }
